@@ -17,3 +17,6 @@ yeahhhhhhh
 - pull
 - log
 - status
++ 並行開発用コマンド
+- branch
+- checkout
