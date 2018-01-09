@@ -1,7 +1,6 @@
 # learnprograms
-for study
 
-yeahhhhhhh
+for study
 
 ## GitHub の使い方の学習用リポジトリ
 
