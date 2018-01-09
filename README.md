@@ -15,6 +15,7 @@ yeahhhhhhh
 - commit
 - push
 - pull
++ 状態可視化用コマンド
 - log
 - status
 + 並行開発用コマンド
