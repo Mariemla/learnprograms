@@ -15,3 +15,5 @@ yeahhhhhhh
 - commit
 - push
 - pull
+- log
+- status
